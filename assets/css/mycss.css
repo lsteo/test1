@@ -1,0 +1,10 @@
+.title-slide {
+  background-color: #7FA3D5; /* #EDE0CF; ; #CA9F9D*/
+}
+
+.title-slide hgroup h1 {
+  font-size: 65px;
+  line-height: 1.4;
+  letter-spacing: -3px;
+  color: #000000;
+}
